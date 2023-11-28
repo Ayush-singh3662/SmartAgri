@@ -1,9 +1,7 @@
 ## Infinite Void
 ## Team Members
-- **Vishal Kumar Patel** 
-- **Sanjeet Kumar**     
-- **Ved Anand** 
-- **Twisha Talukder**
+- **Ayush Kumar** 
+- **Avik Kumar Das**     
   
 ## SmartzAgri
 
